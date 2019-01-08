@@ -1,0 +1,14 @@
+{
+  "pages":[
+    "pages/hwlist/hwlist",
+    "pages/logs/logs",
+    "pages/index/index"
+        
+    ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "班级明细",
+    "navigationBarTextStyle":"black"
+  }
+}

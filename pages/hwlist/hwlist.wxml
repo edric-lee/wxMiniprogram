@@ -1,0 +1,20 @@
+<!--pages/hwlist/hwlist.wxml-->
+
+<view class='creathw'>
+<van-button round type="danger">作业发布</van-button>
+</view>
+<view class="sendHw">已发布的作业</view>
+<view class="hwList">
+  <van-card
+    title="作业标题" 
+    desc="作业时间" 
+    thumb="../../images/1.jpg">
+  </van-card>
+</view>
+<view class="hwList">
+  <van-card
+    title="作业标题" 
+    desc="作业时间" 
+    thumb="../../images/1.jpg">
+  </van-card>
+</view>

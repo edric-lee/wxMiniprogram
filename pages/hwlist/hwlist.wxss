@@ -1,0 +1,14 @@
+.creathw{
+  height: 200rpx;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 20px;
+}
+.sendHw{
+  font-size: 12PX;
+  padding-left: 5PX;
+}
+.hwList{
+  margin-top:3PX;
+}
